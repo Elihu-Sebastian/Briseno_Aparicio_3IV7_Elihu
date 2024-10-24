@@ -33,3 +33,5 @@ elif opcion =="B":
         dec = int(input())
         binario = bin_dec(dec)
         print("El numero es", binario)
+else:
+    print("Opcion no valida") 
