@@ -1,13 +1,13 @@
-print("ingrese las filas de las ordenadas")
+print("ingrese las filas de la matriz")
 filas1 = int( input())
 if filas1 < 0:
-    print ("no se puede numeros negativos")
+    print ("no se puede numeros negativos, escriba otro numero que sea positivo")
     filas1 = int( input())
 
-print("ingrese las columnas de las ordenadas")
+print("ingrese las columnas de la matriz")
 columnas1 = int( input())
 if columnas1 < 0:
-    print ("no se puede numeros negativos")
+    print ("no se puede numeros negativos, escriba otro numero que sea positivo")
     columnas1 = int( input())
 
 matrizA = []

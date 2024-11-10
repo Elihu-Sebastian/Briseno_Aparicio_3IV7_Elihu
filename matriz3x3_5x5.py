@@ -1,5 +1,6 @@
-print("ingrese el orden de la matriz a calcular")
+print("ingrese las filas de la matriz")
 filas1 = int( input())
+print("ingrese las columnas de la matriz")
 columnas1 = int( input())
 
 matrizA = []
