@@ -1,0 +1,30 @@
+Minero,Legendaria,3,Tropa,1600,Cuerpo a cuerpo,Alta,Terrestre,256,LavaMiner,Mortar Miner,Lavahound
+Montapuercos,Especial,4,Tropa,2248,Cuerpo a cuerpo,Muy alta,Estructuras,421,Hog Ghost,Hog Browler,Party Rockert
+Cazador,Epica,4,Tropa,735,Media,Media,De tierra y aire,700,Hunter miner,Woodland,Golem Hunter
+Duendes,Comun,2,Tropa,167*3,Cuerpo a cuerpo,Muy alta,Cuerpo a cuerpo,99*3,Pekka Hog,Monk Ram,X-BOw
+Bruja Madre,Legendaria,4,Tropa,482,Alto,Media,De tierra y aire,121,Dark elixir, Party Rocket, Golden Knight
+Bandida,Legendaria,3,Tropa,825,Cuerpo a cuerpo,Alta,Terrestre,176,Magical Miner Polson,Little Prince Ram,Rage
+Arquero Magico,Legendaria,4,Tropa,482,Alto,Media,De tierra y aire,122,WallBreaks,P.E.K.K.A. Ram,Monk Ram Rider
+Gigante,Especial,5,Tropa,3724,Cuerpo a cuerpo(Medio),Baja,Estructuras,231,Magic Double Prince,Giant Hunter,Sparknado 2.
+Chispitas,Legendaria,6,Tropa,1331,Medio,Baja,Terrestre,1231,GobGiant,Hog Rider,Sparknado 1.0
+Esqueletos,Comun,1,Tropa,81,Cuerpo a cuerpo(corto),Alta,Terrestre,81,Ram Musk,Giant Skeleton,GobHut Splashyard
+Fantasma Real,Legendaria,3,Tropa,1210,Cuerpo a cuerpo(Medio),Alta,Terrestre,261,Gobling Machine,Splashyard Bowler,P.E.K.K.A Duo
+Esperitu de fuego,Comun,1,Tropa,252,Bajo,Muy alta,De tierra y aire,227,Super Mini P.E.K.K.A,Mighty Miner,Mortar Inferno
+P.E.K.K.A.,Epica,7,Tropa,4982,Cuerpo a cuerpo(Largo),Baja,Terrestres,1081,PEKKA GobHut,PEKKA Miner Poison,MegaKnight PEKKA
+Murcielagos,Comun,2,Tropa,108*5,Cuerpo a cuerpo(Medio),Muy Alta,De tierra y aire,108*5,Ghost MK skelly Miner,Hog MiniP Bats Cycle,Hog Mega Knight Free
+Bruja,Epica,5,Tropa,1110,Media,Media,De tierra y aire,178,A1-Witch,Goulsville Exe Witches,GS Witch Clone
+Excavadora de duendes,Epica,4,Estructura,1443,Cuerpo a cuerpo(Medio),Medio,Terrestre,91*3,Goblin Drill Bait, oblin Drill Evo,Mighty Miner Gobdrill
+Bebe Dragon,Epica,4,Tropa,1276,Medio,Alta,De tierra y aire,176,Golem NW beatdown,META MAULERS,THE ULTRA NYTES
+Mago,Especial,5,Tropa,754,Alto,Media,De tierra y aire,281,Spark the Fire,Larry Valkyrie Wiz,Ballon Festival deck
+Principe oscuro,Epica,4,Tropa,1200,Cuerpo a cuerpo(Medio),Media,Terrestres,248,Bridge Spam,Giant GY control,Electro Giant Drill
+Montacarneros,Legendaria,5,Tropa,1607,Cuerpo a cuerpo(corto),Media,Estructuras,242,Ram Rage Bowler,Ram Rage GS Freeze,RamRider Healer
+Espiritu Electrico,Comun,1,Tropa,209,Corto,Muy Alta,De tierra y aire,90,Ram Rage Rider Mega Knight Freeze,Super Witch Electro,Ballon Festival deck
+Mini P.E.K.K.A.,Especial,4,Tropa,1239,Cuerpo a cuerpo(corto),Alta,Terrestres,656,Golson,2.8 MA Hog EQ,LogBait Freeze
+Maquina Voladora,Especial,4,Tropa,559,Alto,Alta,De tierra y aire,559,Pigs on Parade,Double Elixir Lava,Lava BabyD FM
+Torre bombardera,Especial,4,Estructura,1235,Medio,Medio,Terrestres,202,RG Firecracker cycle,Bandit Miner Poison,Super Arches Ghost
+RompeMuros,Epica,2,Tropa,325,Cuerpo a cuerpo(Corto),Muy alta,Estrcuturas,325,Miner Wall Breakers,Super Magic Archer,WallBreakers Miner
+Golem de Elixir,Especial,3,Tropa,1428,Cuerpo a cuerpo(corto),Baja,Estructuras,231,EG MA Healer Control,Sparky EG beatdown,Elixir Golem Splash
+Lanzarrocas,Epica,5,Tropa,1898,Alto,Baja,Terrestres,262,Party Hut Golden,SD Splashyard 2.0,Splashyard With Valk
+Caballero,Comun,3,Tropa,1938,Cuerpo a cuerpo(Medio),Media,Terrestres,184,QueenBow,3.0 X-Bow cycle,Lava Loon Knight
+Dragon Electrico,Epico,5,Tropa,1259,Medio,Media,De tierra y aire,254,Electro Buff EGlant,Electro Glant Healer,Mortar Time control
+Duende Lanzadardos,Especial,3,Tropa,237,Alto,Muy alta,De tierra y aire,129,eBarb Hog Dart cycle,Goblin Ladder,Fast Cycle Bait
